@@ -2,5 +2,3 @@ Name
 Email
 Password
 Role
-st.session_state["logged_in"] = True
-st.session_state["email"] = email
