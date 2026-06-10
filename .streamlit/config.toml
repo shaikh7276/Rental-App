@@ -3,3 +3,14 @@ primaryColor="#2563eb"
 "backgroundColor="#FFF8E7""
 secondaryBackgroundColor="#1e293b"
 textColor="#ffffff"
+st.markdown("""
+<style>
+.stApp {
+    background: linear-gradient(
+        135deg,
+        #F8FAFC,
+        #EEF2FF
+    );
+}
+</style>
+""", unsafe_allow_html=True)
