@@ -1,7 +1,11 @@
 import streamlit as st
 import pandas as pd
 import os
-
+st.set_page_config(
+    page_title="RentalHub",
+    page_icon="🏠",
+    layout="wide"
+)
 st.set_page_config(page_title="Rental App")
 
 st.title("🏠 Rental App")
