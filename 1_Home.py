@@ -133,3 +133,18 @@ with c3:
 st.divider()
 
 st.caption("© 2026 RentalHub | Find the perfect rental for every need")
+🏠 Flat / Apartment
+
+2BHK, 3BHK, Studio
+
+🏍️ Bike / Scooter
+
+Daily & monthly rentals
+
+🚗 Car
+
+Self-drive & chauffeur
+
+🎉 Event Items
+
+Tents, chairs, speakers
