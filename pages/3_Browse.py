@@ -100,16 +100,4 @@ for index, row in filtered_df.iterrows():
         )
 
     st.write("")
-🏠 Flat / Apartment
 
-🏡 House / Villa
-
-🛏️ PG / Hostel
-
-🚗 Car
-
-🏍️ Bike / Scooter
-
-🎉 Event Items
-
-🛠️ Equipment / Tools
